@@ -1,2 +1,2 @@
 # docker-and-jenkins-integration
-This repository will be integrate to a Jenkins pipeline CI
+This is a automated workflow to creating a docker image and push it in dockerhub.

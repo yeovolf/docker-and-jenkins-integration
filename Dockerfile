@@ -5,7 +5,7 @@ From centos:7
 LABEL maintainer="Soho yeo "
 
 #update all packaged
-RUN  RUN yum -y update && yum clean all
+RUN yum -y update && yum clean all
 # Install apache
 RUN yum -y install httpd
 
